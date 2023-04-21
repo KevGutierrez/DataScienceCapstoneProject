@@ -1,0 +1,17 @@
+1- Elegir una plantilla apropiada
+2- Utilizar palabras clave (Leer la oferta de trabajo y encontrar allí las palabras que considere clave y utilizar el mismo lenguaje del reclutador)
+3- Resaltar las palabras claves del cargo en el CV
+4- Crear resumen corto y descriptivo (Mencionar área de especialidad y tecnologías o herramientas que domine)
+5- En el apartado de experiencia, poner las funciones que busca el cargo
+6- Utilizar bullet points
+7- Destacar logros en la experiencia
+8- Agregar perfil de linkedin en el apartado de contacto
+
+Palabras clave en oferta de trabajo "Analista de datos con inglés C1":
+
+-Analista
+-Datos
+-Inglés
+-C1
+-Bases de datos
+-Entorno Multicultural
